@@ -73,6 +73,3 @@ AZURE_SUBSCRIPTION_ID="your-sub-id"
 ## 🛡️ Security & Compliance
 
 This project follows the **Principle of Least Privilege**. It is designed to run via a Service Principal with scope-limited access to specific Resource Groups, ensuring it cannot touch production-critical infrastructure.
-
-```
-
