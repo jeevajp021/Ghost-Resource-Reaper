@@ -1,5 +1,8 @@
 # 👻 Ghost-Resource Reaper: Secure Cloud FinOps Automation
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Cloud: Azure](https://img.shields.io/badge/Cloud-Azure-0089D6?logo=microsoft-azure)](https://azure.microsoft.com/)
+
 ### 📌 The Problem: "Cloud Sprawl"
 
 In large-scale cloud environments, developers often provision Virtual Machines (VMs) for testing and forget to deallocate them. These **"Zombie Resources"** lead to "Cloud Sprawl," costing companies thousands of dollars in unnecessary spend.
