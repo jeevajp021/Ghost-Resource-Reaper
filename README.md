@@ -64,7 +64,7 @@ The engine follows a modular, parallel-processed logic:
 ### 2. Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Ghost-Resource-Reaper.git
+git clone https://github.com/jeevajp021/Ghost-Resource-Reaper.git
 cd Ghost-Resource-Reaper
 pip install -r requirements.txt
 ```
